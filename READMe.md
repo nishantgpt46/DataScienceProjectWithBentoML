@@ -6,16 +6,22 @@ Dataset Overview :-
 The Iris Dataset is a well-known dataset in machine learning, consisting of 150 records of iris flowers across three species:
 
 1-Setosa
+
 2-Versicolor
-3-Virginica
+
+3-Virginica 
+
 Each record contains information on the flower's physical features.
 
 Key Features :-
 The dataset includes four features that describe the physical characteristics of each flower:
 
   1-Sepal Length (in centimeters)
+  
   2-Sepal Width (in centimeters)
+  
   3-Petal Length (in centimeters)
+  
   4-Petal Width (in centimeters)
 
 Target Variable :-
@@ -27,7 +33,9 @@ The predictive task for this dataset is to classify each flower into one of the 
 Technology Stack:-
 
   1-BentoML for model serving and deployment.
+  
   2-Swagger UI for interactive API documentation.
+  
   3-Machine Learning Model trained on the Iris dataset.
 
 
